@@ -1,0 +1,7 @@
+<aura:component implements="lightning:actionOverride,force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,lightning:availableForFlowScreens"
+access="global">
+    Hello Varasi!!!!!
+    Dasvidaniya !!
+    hii ! HOw are you?
+    hola !!
+</aura:component>	
