@@ -1,4 +1,8 @@
 <aura:component implements="lightning:actionOverride,force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,lightning:availableForFlowScreens"
 access="global">
+<<<<<<< HEAD
     Hello World From Varasi Team!!!!!!!!!!!
+=======
+    Hello World!!!!!!??????
+>>>>>>> HelloWorld Issue Resolved
 </aura:component>	
