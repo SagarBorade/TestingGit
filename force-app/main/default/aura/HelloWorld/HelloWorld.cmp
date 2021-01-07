@@ -2,7 +2,4 @@
 access="global">
     Hello World!
     <lightning:button label="button3" name="button3"></lightning:button>
-    Hello World From Varasi Team!!!!!!!!!!!
-    <lightning:button name="Button7" label="Button7"></lightning:button>
-    <lightning:button label="Button2" name="Button2"></lightning:button>
 </aura:component>	
