@@ -1,4 +1,9 @@
 <aura:component implements="lightning:actionOverride,force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,lightning:availableForFlowScreens"
 access="global">
+    Hello World!
+    <lightning:button label="button3" name="button3"></lightning:button>
     Hello World From Varasi Team!!!!!!!!!!!
+    <lightning:button name="Button4" label="Button4"></lightning:button>
+    <lightning:button label="Button2" name="Button2"></lightning:button>
+    <lightning:button label="Button5" name="Button5"></lightning:button>
 </aura:component>	
