@@ -6,4 +6,6 @@ access="global">
     <lightning:button name="Button4" label="Button4"></lightning:button>
     <lightning:button label="Button2" name="Button2"></lightning:button>
     <lightning:button label="Button5" name="Button5"></lightning:button>
+
+    Now testing tags 
 </aura:component>	
